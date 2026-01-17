@@ -1,2 +1,3 @@
 # fsjs-p2
-fsjs-p2
+
+init fsjs-p2
