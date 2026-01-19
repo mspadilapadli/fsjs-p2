@@ -10,3 +10,6 @@
 [submodule "week2/fsjs-p2-gc2-ref"]
 	path = week2/fsjs-p2-gc2-ref
 	url = https://github.com/mspadilapadli/fsjs-p2-gc2-ref.git
+[submodule "week2/fsjs-p2-thr-ref"]
+	path = week2/fsjs-p2-thr-ref
+	url = https://github.com/mspadilapadli/fsjs-p2-thr-ref.git
