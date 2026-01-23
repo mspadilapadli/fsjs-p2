@@ -19,3 +19,6 @@
 [submodule "week3/fsjs-p2-lc2-ref"]
 	path = week3/fsjs-p2-lc2-ref
 	url = https://github.com/mspadilapadli/fsjs-p2-lc2-ref.git
+[submodule "week3/fsjs-p2-slc2-ref"]
+	path = week3/fsjs-p2-slc2-ref
+	url = https://github.com/mspadilapadli/fsjs-p2-slc2-ref.git
